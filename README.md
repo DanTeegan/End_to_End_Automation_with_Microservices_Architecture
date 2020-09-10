@@ -2,6 +2,10 @@
 
 [Information on Python TDD Testing please click here](https://github.com/DanTeegan/End_to_End_Automation_with_Microservices_Architecture/blob/master/Python_TDD_Testing.md)
 
+[Information on Jenkins and the CI/CD/CDE Pipeline please click here](https://github.com/DanTeegan/End_to_End_Automation_with_Microservices_Architecture/blob/master/Jenkins_CI-CD-CDE_Pipeline.md)
+
+[Information on Docker and Micro-Services Architecture please click here](https://github.com/DanTeegan/End_to_End_Automation_with_Microservices_Architecture/blob/master/Docker_Micro-Services_Architecture.md)
+
 
 ### Project Summary :thought_balloon:
 
