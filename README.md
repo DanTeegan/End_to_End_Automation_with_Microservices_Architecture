@@ -11,5 +11,5 @@
 - [x] Deployment with ECS on AWS
 - [x] Presentation & Demo Video 
 
-** DOD = to get app running on EC2 with full functionality as per the following readme [click here](https://github.com/ugneokmanaite/Final_Academy_Project-/blob/master/original_repo_README.md)
+** DOD = to get app running on EC2 with full functionality as per the following readme [click here](https://github.com/DanTeegan/Final_Project_Python_App_CI-CD/blob/master/README.md)
 
