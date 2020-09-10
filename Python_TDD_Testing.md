@@ -3,7 +3,7 @@
 
 ![image](images/End-to-End_with_Containers_in_DevOps.png)
 
-# Testing Python App :snake:
+# Testing Python App
 
 ## Step 1: Prerequisites
 
@@ -15,7 +15,7 @@ Clone the repo and save folders with the required code
 
 ## Step 3: Add new interpreter to the current project 
 
-![image](images/10.JPG)
+![image](images/10.jfif)
 
 for more info: https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.html
 
@@ -42,7 +42,7 @@ main.py
 ## Step 8: If tests are stil failing check the following things:
 
 ### Error when attempting to run pytest
-![image](images/9.JPG)
+![image](images/9.jfif)
 
 - try to update `pluggy dependency`
 - run the following command in terminal
@@ -61,10 +61,10 @@ pip3 install -U pluggy
  - https://stackoverflow.com/questions/3348460/csv-file-written-with-python-has-blank-lines-between-each-row
 
  - It should now look like this 
- ![image](images/2.JPG)
+ ![image](images/2.jfif)
 
 ### Test Error 2: Inconsistent naming convention in files
-![image](images/3.JPG)
+![image](images/3.jfif)
 
 - Open `test_html_object_manager.py`
 - Ensure to change 
@@ -77,16 +77,16 @@ HttpManager
 ````
 - This has to be done throughout the whole file!
 - It should now look like this 
-![image](images/4.JPG)
+![image](images/4.jfif)
 
 ### Test Error 3: def test_html_manager_returns_html_from_url
 
-![image](images/5.JPG)
+![image](images/5.jfif)
 
 - Open `test_html_object_manager.py`
 - Go to line 26 and 27 
 
-![image](images/6.JPG)
+![image](images/6.jfif)
 ```
     def test_html_manager_returns_html_from_url(self, html_manager_object):
         assert 'Tracking the IT job market' in html_manager_object.html
@@ -94,8 +94,8 @@ HttpManager
 - Ensure 'Job Market' is capitilized as this is the way it is in site html
 
 - It should now look like this 
-![image](images/7.JPG)
+![image](images/7.jfif)
 
 ## All tests should now pass!!
 
-![image](images/8.JPG)
+![image](images/8.jfif)
